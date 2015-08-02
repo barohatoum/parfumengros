@@ -79,7 +79,7 @@ vendor/
 # composer.lock
 
 # Bower.io
-bower_composer/
+bower_components/
 
 # App
 resources/
