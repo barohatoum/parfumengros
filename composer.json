@@ -1,0 +1,11 @@
+{
+    "name": "root/parfumengros",
+    "description": "E-commerce website",
+    "authors": [
+        {
+            "name": "Ibrahim Hatoum",
+            "email": "ibrahim.hatoum@gmail.com"
+        }
+    ],
+    "require": {}
+}
